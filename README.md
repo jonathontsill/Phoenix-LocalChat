@@ -2,7 +2,7 @@
 
 ## Overview
 
-Using the Phoenix boilerplate, I created a backend Phoenix realtime messaging app that allows local users to communicate back and forth with each other inside different instances of [`localhost:4000`](http://localhost:4000) using it's built-in socketing handling and channels.
+Using the Phoenix boilerplate, I created a backend Phoenix realtime messaging app that allows local users to communicate back and forth with each other inside different instances of [`localhost:4000`](http://localhost:4000) using it's built-in channels and socketing handling.
 
 ## Getting Started
 
